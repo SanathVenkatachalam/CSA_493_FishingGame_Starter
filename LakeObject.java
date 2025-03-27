@@ -8,8 +8,8 @@
 */
 public abstract class LakeObject
 {
-  private int cost;
-  private int weight;
+  protected int cost;
+  protected int weight;
   
   /*---------- constructor ----------*/
   public LakeObject()

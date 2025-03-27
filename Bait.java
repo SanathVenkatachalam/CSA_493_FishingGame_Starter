@@ -3,5 +3,8 @@
  */
 public class Bait extends LakeObject
 {
+    public Bait(){
+        int cost = 10;
+    }
 
 }

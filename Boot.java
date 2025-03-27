@@ -3,5 +3,8 @@
  */
 public class Boot extends LakeObject
 {
+    public Boot(){
+        int cost = 0;;
+    }
 
 }
